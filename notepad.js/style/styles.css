@@ -1,0 +1,17 @@
+.content {
+    display: inline-block;
+    border: 2px solid black;
+    padding: 5px;
+    background-color: beige;
+}
+
+.header {
+    background-color: beige;
+}
+.header label {
+    font-weight: bold;
+}
+
+textarea {
+    resize: none;
+}
